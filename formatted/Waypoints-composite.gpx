@@ -39,4 +39,63 @@
     <name>05-20:58-MN</name>
     <sym>Flag, Blue</sym>
   </wpt>
+  <!-- 06 aug 2014 -->
+  <wpt lat="42.216901" lon="78.200511">
+    <ele>2962.199463</ele>
+    <time>2014-08-06T07:16:27Z</time>
+    <name>06-13:16-BROD</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.218597" lon="78.206485">
+    <ele>3077.299561</ele>
+    <time>2014-08-06T08:17:31Z</time>
+    <name>06-14:17-VODA</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <!-- 07 aug 2014 -->
+  <!-- DNEVKA -->
+  <!-- 08 aug 2014 -->
+  <wpt lat="42.220101" lon="78.257928">
+    <ele>3805.958252</ele>
+    <time>2014-08-08T01:56:56Z</time>
+    <name>08-07:56</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.217283" lon="78.262410">
+    <ele>3923.296631</ele>
+    <time>2014-08-08T03:43:14Z</time>
+    <name>08-09:43-P.EHO</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.216915" lon="78.263636">
+    <ele>3861.869629</ele>
+    <time>2014-08-08T05:29:48Z</time>
+    <name>08-11:29-SPUSK</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.223475" lon="78.279471">
+    <ele>3629.921143</ele>
+    <time>2014-08-08T08:32:14Z</time>
+    <name>08-16:32-OBED</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.224462" lon="78.283140">
+    <ele>3602.342041</ele>
+    <time>2014-08-08T08:49:50Z</time>
+    <!-- бараньи лбы -->
+    <name>08-14:49-LBY</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.224075" lon="78.284809">
+    <ele>3506.110840</ele>
+    <time>2014-08-08T08:58:53Z</time>
+    <name>08-14:58-SKALY</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.229343" lon="78.297084">
+    <ele>3305.955078</ele>
+    <time>2014-08-08T10:26:15Z</time>
+    <name>08-16:26-MN</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
 </gpx>

@@ -6,6 +6,11 @@
     </link>
     <time>2014-08-03T08:35:08Z</time>
   </metadata>
+  <!--
+    формат разметки точек:
+    ЧИСЛО_МЕСЯЦА-ЧЧ:ММ (время местное)-МЕТКА_ТОЧКИ
+  -->
+
   <!-- 03 aug 2014 -->
   <wpt lat="42.192977" lon="78.199987">
     <ele>2607.444824</ele>
@@ -96,6 +101,62 @@
     <ele>3305.955078</ele>
     <time>2014-08-08T10:26:15Z</time>
     <name>08-16:26-MN</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <!-- 09 aug 2014 -->
+  <wpt lat="42.242337" lon="78.328455">
+    <ele>2813.304443</ele>
+    <time>2014-08-09T03:33:14Z</time>
+    <name>09-09:33-BROD,BURELOM</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.241434" lon="78.329910">
+    <ele>2875.173584</ele>
+    <time>2014-08-09T03:56:25Z</time>
+    <name>09-09:56-NA.TROPE</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.244271" lon="78.336857">
+    <ele>2634.850830</ele>
+    <time>2014-08-09T04:28:59Z</time>
+    <name>09-10:28-NACHALO TROPY</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.281736" lon="78.307670">
+    <ele>2392.628418</ele>
+    <time>2014-08-09T06:38:27Z</time>
+    <name>09-12:38:MOST,OBED</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.265977" lon="78.370538">
+    <ele>2830.921143</ele>
+    <time>2014-08-10T01:15:10Z</time>
+    <name>09-MN,START.10-07:15</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <!-- 10 aug 2014 -->
+  <wpt lat="42.249014" lon="78.394812">
+    <ele>2955.862793</ele>
+    <time>2014-08-10T02:33:31Z</time>
+    <name>10-08:33-BROD</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.261995" lon="78.427597">
+    <ele>3792.465332</ele>
+    <time>2014-08-10T07:37:59Z</time>
+    <name>10-13:37-P.TELETY</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.263605" lon="78.434351">
+    <ele>3601.129150</ele>
+    <time>2014-08-10T09:59:06Z</time>
+    <name>10-15:59-OBED</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.278124" lon="78.459632">
+    <ele>3121.877686</ele>
+    <time>2014-08-10T14:12:09Z</time>
+    <name>10-20:12-MN</name>
     <sym>Flag, Blue</sym>
   </wpt>
 </gpx>

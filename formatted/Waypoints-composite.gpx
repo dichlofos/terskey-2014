@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="eTrex 20" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2014-08-03T08:35:08Z</time>
+  </metadata>
+  <!-- 03 aug 2014 -->
+  <wpt lat="42.192977" lon="78.199987">
+    <ele>2607.444824</ele>
+    <time>2014-08-03T08:35:08Z</time>
+    <name>03-14:35-OBED</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.171022" lon="78.198503">
+    <ele>2607.870117</ele>
+    <time>2014-08-03T13:45:15Z</time>
+    <name>03-19:45-MN</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <!-- 04 aug 2014 -->
+  <wpt lat="42.149994" lon="78.170788">
+    <ele>3445.327637</ele>
+    <time>2014-08-04T13:02:11Z</time>
+    <name>04-19:02-MN</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <!-- 05 aug 2014 -->
+  <wpt lat="42.148309" lon="78.151209">
+    <ele>3799.072510</ele>
+    <time>2014-08-05T05:17:32Z</time>
+    <name>05-11:17-P.SAVATOR</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.193723" lon="78.200732">
+    <ele>2716.845215</ele>
+    <time>2014-08-05T14:58:25Z</time>
+    <name>05-20:58-MN</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+</gpx>

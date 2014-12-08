@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="eTrex 20" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2014-08-10T01:15:10Z</time>
+  </metadata>
+  <wpt lat="42.265977" lon="78.370538">
+    <ele>2830.921143</ele>
+    <time>2014-08-10T01:15:10Z</time>
+    <name>MN 10 AVG</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.249014" lon="78.394812">
+    <ele>2955.862793</ele>
+    <time>2014-08-10T02:33:31Z</time>
+    <name>BROD</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.261995" lon="78.427597">
+    <ele>3792.465332</ele>
+    <time>2014-08-10T07:37:59Z</time>
+    <name>PEREVAL TELETY</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.263605" lon="78.434351">
+    <ele>3601.129150</ele>
+    <time>2014-08-10T09:59:06Z</time>
+    <name>OBED 10 AVG</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.278124" lon="78.459632">
+    <ele>3121.877686</ele>
+    <time>2014-08-10T14:12:09Z</time>
+    <name>MN 10AVG</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+</gpx>

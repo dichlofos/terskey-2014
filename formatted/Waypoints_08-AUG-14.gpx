@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="eTrex 20" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2014-08-08T01:56:56Z</time>
+  </metadata>
+  <wpt lat="42.220101" lon="78.257928">
+    <ele>3805.958252</ele>
+    <time>2014-08-08T01:56:56Z</time>
+    <name>058</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.220116" lon="78.257942">
+    <ele>3807.476318</ele>
+    <time>2014-08-08T01:57:26Z</time>
+    <name>059</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.220114" lon="78.257940">
+    <ele>3807.293701</ele>
+    <time>2014-08-08T01:57:29Z</time>
+    <name>060</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.217283" lon="78.262410">
+    <ele>3923.296631</ele>
+    <time>2014-08-08T03:43:14Z</time>
+    <name>PEREVAL EHO</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.216915" lon="78.263636">
+    <ele>3861.869629</ele>
+    <time>2014-08-08T05:29:48Z</time>
+    <name>SPUSK</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.223475" lon="78.279471">
+    <ele>3629.921143</ele>
+    <time>2014-08-08T08:32:14Z</time>
+    <name>OBED 8 AVG</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.224462" lon="78.283140">
+    <ele>3602.342041</ele>
+    <time>2014-08-08T08:49:50Z</time>
+    <name>LBY</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.224075" lon="78.284809">
+    <ele>3506.110840</ele>
+    <time>2014-08-08T08:58:53Z</time>
+    <name>SKALY</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.229343" lon="78.297084">
+    <ele>3305.955078</ele>
+    <time>2014-08-08T10:26:15Z</time>
+    <name>MN 8 AVG</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+</gpx>

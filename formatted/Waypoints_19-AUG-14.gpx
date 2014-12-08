@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="eTrex 20" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2014-08-19T07:34:51Z</time>
+  </metadata>
+  <wpt lat="42.375879" lon="78.608650">
+    <ele>2521.195068</ele>
+    <time>2014-08-19T07:34:51Z</time>
+    <name>1908 1END</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.371907" lon="78.611577">
+    <time>2014-08-19T07:40:27Z</time>
+    <name>MOST</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.466492" lon="78.529716">
+    <ele>1899.287598</ele>
+    <time>2014-08-19T09:26:46Z</time>
+    <name>066</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.483819" lon="78.403761">
+    <ele>1775.442993</ele>
+    <time>2014-08-19T11:00:49Z</time>
+    <name>CHANIN</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+</gpx>

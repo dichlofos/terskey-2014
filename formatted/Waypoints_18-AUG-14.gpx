@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="eTrex 20" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2014-08-18T02:45:38Z</time>
+  </metadata>
+  <wpt lat="42.321837" lon="78.525193">
+    <ele>3633.455566</ele>
+    <time>2014-08-18T02:45:38Z</time>
+    <name>1808 1</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.322152" lon="78.534478">
+    <ele>3659.057861</ele>
+    <time>2014-08-18T03:29:45Z</time>
+    <name>1808 2</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.324773" lon="78.540718">
+    <ele>3774.061523</ele>
+    <time>2014-08-18T04:06:32Z</time>
+    <name>1808 3</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.327680" lon="78.547632">
+    <ele>3764.984375</ele>
+    <time>2014-08-18T05:19:53Z</time>
+    <name>064</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.330679" lon="78.554248">
+    <ele>3623.382324</ele>
+    <time>2014-08-18T05:38:00Z</time>
+    <name>1808 4</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.335525" lon="78.575387">
+    <ele>3376.427002</ele>
+    <time>2014-08-18T06:22:58Z</time>
+    <name>1808 5</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.341629" lon="78.597083">
+    <ele>3063.906982</ele>
+    <time>2014-08-18T07:11:12Z</time>
+    <name>1808 6</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.350227" lon="78.614548">
+    <ele>2763.499268</ele>
+    <time>2014-08-18T08:19:04Z</time>
+    <name>1808 7</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.356145" lon="78.621751">
+    <ele>2590.175537</ele>
+    <time>2014-08-18T11:37:50Z</time>
+    <name>1808 8MOST U AA</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+</gpx>

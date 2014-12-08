@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="eTrex 20" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2014-08-09T03:33:14Z</time>
+  </metadata>
+  <wpt lat="42.242337" lon="78.328455">
+    <ele>2813.304443</ele>
+    <time>2014-08-09T03:33:14Z</time>
+    <name>BROD S BURELOMOM</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.241434" lon="78.329910">
+    <ele>2875.173584</ele>
+    <time>2014-08-09T03:56:25Z</time>
+    <name>VYLEZLI NA TROPU</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.244271" lon="78.336857">
+    <ele>2634.850830</ele>
+    <time>2014-08-09T04:28:59Z</time>
+    <name>NACHALO TROPY</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.281736" lon="78.307670">
+    <ele>2392.628418</ele>
+    <time>2014-08-09T06:38:27Z</time>
+    <name>MOST OBED9 AVG</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+</gpx>

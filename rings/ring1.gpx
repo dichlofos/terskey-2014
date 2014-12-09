@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx
+  version="1.0"
+  creator="GPSBabel - http://www.gpsbabel.org"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/0"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<time>2014-08-01T05:32:11Z</time>
+<bounds minlat="42.147815680" minlon="78.150877652" maxlat="42.209109356" maxlon="78.200684799"/>
+<trk>
+  <name>Kv14.R1.Start</name>
+<trkseg>
+<trkpt lat="42.188456074" lon="78.199796571">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="42.168450541" lon="78.200684799">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="42.165099119" lon="78.186510692">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="42.164706968" lon="78.185687396">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="42.164331439" lon="78.184674721">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="42.163912898" lon="78.183381606">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="42.162607799" lon="78.181150103">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="42.161472719" lon="78.179460323">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="42.161134519" lon="78.177790324">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="42.159778552" lon="78.175612813">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="42.157081789" lon="78.170343575">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="42.154066557" lon="78.163692840">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="42.147815680" lon="78.150877652">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="42.152389310" lon="78.158909343">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="42.154098335" lon="78.163608472">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="42.159739042" lon="78.175878093">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="42.165220553" lon="78.186438635">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="42.168866871" lon="78.193996408">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="42.168716354" lon="78.199812289">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="42.187951886" lon="78.198756925">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="42.195005768" lon="78.198475592">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="42.198661782" lon="78.196071311">
+  <ele>0.000000</ele>
+</trkpt>
+<trkpt lat="42.209109356" lon="78.187515750">
+  <ele>0.000000</ele>
+</trkpt>
+</trkseg>
+</trk>
+</gpx>

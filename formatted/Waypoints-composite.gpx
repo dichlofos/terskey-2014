@@ -159,4 +159,90 @@
     <name>10-20:12-MN</name>
     <sym>Flag, Blue</sym>
   </wpt>
+  <!-- 11 aug 2014 -->
+  <wpt lat="42.299117" lon="78.491343">
+    <ele>2622.819580</ele>
+    <time>2014-08-11T04:29:44Z</time>
+    <name>11-10:29-MOST</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <!-- 12 aug 2014 -->
+  <wpt lat="42.221378" lon="78.562886">
+    <ele>3544.721924</ele>
+    <time>2014-08-12T10:44:12Z</time>
+    <name>12-16:44-MN</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <!-- 13 aug 2014 -->
+  <wpt lat="42.204996" lon="78.546085">
+    <ele>3823.073975</ele>
+    <time>2014-08-13T10:19:54Z</time>
+    <name>13-16:19-MN,POSTROILIS</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+
+  <!-- 14,15,16 aug 2014 no data, A/L KARAKOL -->
+
+  <!-- 17 aug 2014 -->
+  <wpt lat="42.317401" lon="78.473848">
+    <ele>2552.451904</ele>
+    <time>2014-08-17T03:46:06Z</time>
+    <name>17-09:46</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.320551" lon="78.481518">
+    <ele>2696.214355</ele>
+    <time>2014-08-17T04:15:59Z</time>
+    <name>17-10:15</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.323308" lon="78.488070">
+    <ele>2871.442871</ele>
+    <time>2014-08-17T04:48:54Z</time>
+    <name>17-10:48</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.324271" lon="78.493191">
+    <ele>2958.474365</ele>
+    <time>2014-08-17T05:30:47Z</time>
+    <name>17-11:30-ARCHA</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.325122" lon="78.495105">
+    <ele>2951.247559</ele>
+    <time>2014-08-17T05:50:05Z</time>
+    <name>17-11:50-LMOT</name>
+    <!-- LMOT = Любимое место отдыха туристов -->
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.326177" lon="78.503175">
+    <ele>3017.529053</ele>
+    <time>2014-08-17T06:08:14Z</time>
+    <name>17-12:08-VODA</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.325662" lon="78.509118">
+    <ele>3092.022949</ele>
+    <time>2014-08-17T06:44:25Z</time>
+    <name>17-12:44</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.325769" lon="78.514495">
+    <ele>3309.001465</ele>
+    <time>2014-08-17T07:29:06Z</time>
+    <name>17-13:29</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.324854" lon="78.519181">
+    <ele>3410.898682</ele>
+    <time>2014-08-17T08:15:01Z</time>
+    <name>17-14:15</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="42.322647" lon="78.521441">
+    <ele>3623.045654</ele>
+    <time>2014-08-17T09:03:34Z</time>
+    <name>17-15:03-L.ALAKEL</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
 </gpx>

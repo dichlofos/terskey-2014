@@ -3,6 +3,7 @@
 
 """
     Track splitter
+    Written by Mikhail Veltishchev <dichlofos-mv@yandex.ru>
 """
 
 import os
@@ -41,13 +42,13 @@ def filter_by_day(lines, day, output_file_name):
             good = any(mask in l for l in cur_point)
 
             if good:
+                some_points = True
                 for point_line in cur_point:
                     output_file.write(point_line)
             continue
 
         if started:
             cur_point.append(line)
-            some_points = True
             continue
 
         # else just output line
@@ -56,6 +57,7 @@ def filter_by_day(lines, day, output_file_name):
     output_file.close()
 
     if not some_points:
+        print "Removing", output_file_name, "as no points written"
         os.unlink(output_file_name)
 
 

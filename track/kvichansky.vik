@@ -1,10 +1,10 @@
 #VIKING GPS Data file http://viking.sf.net/
 FILE_VERSION=1
 
-xmpp=1.000000
-ympp=1.000000
-lat=42.193713
-lon=78.200572
+xmpp=4.000000
+ympp=4.000000
+lat=42.389019
+lon=78.588566
 mode=mercator
 color=#cccccc
 highlightcolor=#eea500
@@ -2889,7 +2889,6 @@ type="trackpoint" latitude="42.254205113300003" longitude="78.486362658399997" a
 type="trackpoint" latitude="42.266001887599998" longitude="78.491214271600001" altitude="3020.5999999999999" unixtime="1408079791"
 type="trackpoint" latitude="42.266004569800003" longitude="78.491216031799993" altitude="3022.04" unixtime="1408079819"
 type="trackpoint" latitude="42.266018483800003" longitude="78.491222066800006" altitude="3017.7199999999998" unixtime="1408079833"
-type="trackpoint" latitude="42.289920989400002" longitude="78.491405127600004" altitude="2959.0799999999999" unixtime="1408083076"
 type="trackpoint" latitude="42.288588769699999" longitude="78.491655830300004" altitude="2850.4499999999998" unixtime="1408083102"
 type="trackpoint" latitude="42.288672756399997" longitude="78.491532784" altitude="2832.6599999999999" unixtime="1408083124"
 type="trackpoint" latitude="42.288642832999997" longitude="78.491536220499995" altitude="2828.8200000000002" unixtime="1408083148"
@@ -3048,7 +3047,6 @@ type="trackpoint" latitude="42.341632554299999" longitude="78.597079971799999" a
 type="trackpoint" latitude="42.341631380800003" longitude="78.5970822349" altitude="3063.3800000000001" unixtime="1408345885"
 type="trackpoint" latitude="42.341635236499997" longitude="78.597079217399994" altitude="3063.3800000000001" unixtime="1408345919"
 type="trackpoint" latitude="42.341613192099999" longitude="78.597079385100002" altitude="3061.9400000000001" unixtime="1408345952"
-type="trackpoint" latitude="42.3529974092" longitude="78.613471286399999" altitude="3055.6900000000001" unixtime="1408349270"
 type="trackpoint" latitude="42.351817404899997" longitude="78.613820644100002" altitude="2941.29" unixtime="1408349293"
 type="trackpoint" latitude="42.350763380499998" longitude="78.614074951000006" altitude="2824.0100000000002" unixtime="1408349319"
 type="trackpoint" latitude="42.3505001049" longitude="78.614197913599995" altitude="2782.6700000000001" unixtime="1408349351"

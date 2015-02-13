@@ -23,7 +23,7 @@ def filter_by_day(lines, day, output_file_name):
     started = False
     cur_point = None
     mask = '2014-08-{}'.format(day)
-    print mask
+    print "Using mask", mask
 
     output_file = open(output_file_name, 'w')
 
@@ -33,32 +33,24 @@ def filter_by_day(lines, day, output_file_name):
             started = True
             cur_point = []
 
-        if started:
-            cur_point.append(line)
-
         if tr_line.startswith('</trkpt'):
+            cur_point.append(line)
             started = False
             # process point
             good = False
-            for l in cur_point:
-                #print l, mask
-                if mask in l:
-                    print 'good', l
-                    # matching cur point to day mask
-                    good = True
+            good = any(mask in l for l in cur_point)
 
             if good:
-                for l in cur_point:
-                    output_file.write(l)
+                for point_line in cur_point:
+                    output_file.write(point_line)
+            continue
+
+        if started:
+            cur_point.append(line)
             continue
 
         # else just output line
         output_file.write(line)
-
-
-
-    print day
-    return
 
 
 def main():
@@ -66,7 +58,7 @@ def main():
     file_name = 'track.gpx'
     lines = read_lines(file_name)
 
-    for day in xrange(4, 5):
+    for day in xrange(1, 30):
         sday = str(day)
         if len(sday) < 2:
             sday = '0' + sday

@@ -9,8 +9,8 @@
 import os
 
 
-def read_lines(file_name):
-    """ Read file by lines"""
+def _read_lines(file_name):
+    """ Read file by lines. """
     lines = []
     with open(file_name) as track_file:
         for line in track_file:
@@ -19,7 +19,7 @@ def read_lines(file_name):
 
 
 def filter_by_day(lines, day, output_file_name):
-    """Filter track items by day and fix dates."""
+    """ Filter track items by day and fix dates. """
     started = False
     cur_point = None
     some_points = False
@@ -62,9 +62,9 @@ def filter_by_day(lines, day, output_file_name):
 
 
 def main():
-    """Gravicappa"""
+    """ Gravicappa. """
     file_name = 'track.gpx'
-    lines = read_lines(file_name)
+    lines = _read_lines(file_name)
 
     for day in xrange(1, 30):
         sday = str(day)

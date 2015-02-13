@@ -7,7 +7,8 @@ Written by Mikhail Veltishchev <dichlofos-mv@yandex.ru>
 """
 
 import os
-
+import dateutil.parser
+import datetime
 
 def _read_lines(file_name):
     """ Read file by lines. """
@@ -16,6 +17,16 @@ def _read_lines(file_name):
         for line in track_file:
             lines.append(line)
     return lines
+
+
+def _fix_time(point_line):
+    """ Fix time offset. """
+    if not '<time' in point_line:
+        return point_line
+
+    time = point_line.replace('<time>', '').replace('</time>', '')
+    line_datetime = dateutil.parser.parse(time) + datetime.timedelta(hours=6)
+    return '<time>' + line_datetime.isoformat() + '</time>\n'
 
 
 def filter_by_day(lines, day, output_file_name):
@@ -44,6 +55,7 @@ def filter_by_day(lines, day, output_file_name):
             if good:
                 some_points = True
                 for point_line in cur_point:
+                    point_line = _fix_time(point_line)
                     output_file.write(point_line)
             continue
 
@@ -74,6 +86,14 @@ def main():
         output_file_name = file_name.replace('.gpx', '-{}.gpx'.format(sday))
         print "Output", sday, "to", output_file_name
         filter_by_day(lines, sday, output_file_name)
+
+
+    output_wpt_file = open('Waypoints-composite-local.gpx', 'w')
+
+    wpt_lines = _read_lines('Waypoints-composite.gpx')
+    for line in wpt_lines:
+        line = _fix_time(line)
+        output_wpt_file.write(line)
 
 
 if __name__ == '__main__':

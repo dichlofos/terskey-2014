@@ -16,46 +16,46 @@
     <ele>2607.444824</ele>
     <time>2014-08-03T08:35:08Z</time>
     <name>03-14:35-OBED</name>
-    <sym>Flag, Blue</sym>
+
   </wpt>
   <wpt lat="42.171022" lon="78.198503">
     <ele>2607.870117</ele>
     <time>2014-08-03T13:45:15Z</time>
     <name>03-19:45-MN</name>
-    <sym>Flag, Blue</sym>
+
   </wpt>
   <!-- 04 aug 2014 -->
   <wpt lat="42.149994" lon="78.170788">
     <ele>3445.327637</ele>
     <time>2014-08-04T13:02:11Z</time>
     <name>04-19:02-MN</name>
-    <sym>Flag, Blue</sym>
+
   </wpt>
   <!-- 05 aug 2014 -->
   <wpt lat="42.148309" lon="78.151209">
     <ele>3799.072510</ele>
     <time>2014-08-05T05:17:32Z</time>
     <name>05-11:17-P.SAVATOR</name>
-    <sym>Flag, Blue</sym>
+
   </wpt>
   <wpt lat="42.193723" lon="78.200732">
     <ele>2716.845215</ele>
     <time>2014-08-05T14:58:25Z</time>
     <name>05-20:58-MN</name>
-    <sym>Flag, Blue</sym>
+
   </wpt>
   <!-- 06 aug 2014 -->
   <wpt lat="42.216901" lon="78.200511">
     <ele>2962.199463</ele>
     <time>2014-08-06T07:16:27Z</time>
     <name>06-13:16-BROD</name>
-    <sym>Flag, Blue</sym>
+
   </wpt>
   <wpt lat="42.218597" lon="78.206485">
     <ele>3077.299561</ele>
     <time>2014-08-06T08:17:31Z</time>
     <name>06-14:17-VODA</name>
-    <sym>Flag, Blue</sym>
+
   </wpt>
   <!-- 07 aug 2014 -->
   <!-- DNEVKA -->
@@ -64,121 +64,121 @@
     <ele>3805.958252</ele>
     <time>2014-08-08T01:56:56Z</time>
     <name>08-07:56</name>
-    <sym>Flag, Blue</sym>
+
   </wpt>
   <wpt lat="42.217283" lon="78.262410">
     <ele>3923.296631</ele>
     <time>2014-08-08T03:43:14Z</time>
     <name>08-09:43-P.EHO</name>
-    <sym>Flag, Blue</sym>
+
   </wpt>
   <wpt lat="42.216915" lon="78.263636">
     <ele>3861.869629</ele>
     <time>2014-08-08T05:29:48Z</time>
     <name>08-11:29-SPUSK</name>
-    <sym>Flag, Blue</sym>
+
   </wpt>
   <wpt lat="42.223475" lon="78.279471">
     <ele>3629.921143</ele>
     <time>2014-08-08T08:32:14Z</time>
     <name>08-16:32-OBED</name>
-    <sym>Flag, Blue</sym>
+
   </wpt>
   <wpt lat="42.224462" lon="78.283140">
     <ele>3602.342041</ele>
     <time>2014-08-08T08:49:50Z</time>
     <!-- бараньи лбы -->
     <name>08-14:49-LBY</name>
-    <sym>Flag, Blue</sym>
+
   </wpt>
   <wpt lat="42.224075" lon="78.284809">
     <ele>3506.110840</ele>
     <time>2014-08-08T08:58:53Z</time>
     <name>08-14:58-SKALY</name>
-    <sym>Flag, Blue</sym>
+
   </wpt>
   <wpt lat="42.229343" lon="78.297084">
     <ele>3305.955078</ele>
     <time>2014-08-08T10:26:15Z</time>
     <name>08-16:26-MN</name>
-    <sym>Flag, Blue</sym>
+
   </wpt>
   <!-- 09 aug 2014 -->
   <wpt lat="42.242337" lon="78.328455">
     <ele>2813.304443</ele>
     <time>2014-08-09T03:33:14Z</time>
     <name>09-09:33-BROD,BURELOM</name>
-    <sym>Flag, Blue</sym>
+
   </wpt>
   <wpt lat="42.241434" lon="78.329910">
     <ele>2875.173584</ele>
     <time>2014-08-09T03:56:25Z</time>
     <name>09-09:56-NA.TROPE</name>
-    <sym>Flag, Blue</sym>
+
   </wpt>
   <wpt lat="42.244271" lon="78.336857">
     <ele>2634.850830</ele>
     <time>2014-08-09T04:28:59Z</time>
     <name>09-10:28-NACHALO TROPY</name>
-    <sym>Flag, Blue</sym>
+
   </wpt>
   <wpt lat="42.281736" lon="78.307670">
     <ele>2392.628418</ele>
     <time>2014-08-09T06:38:27Z</time>
     <name>09-12:38:MOST,OBED</name>
-    <sym>Flag, Blue</sym>
+
   </wpt>
   <wpt lat="42.265977" lon="78.370538">
     <ele>2830.921143</ele>
     <time>2014-08-10T01:15:10Z</time>
     <name>09-MN,START.10-07:15</name>
-    <sym>Flag, Blue</sym>
+
   </wpt>
   <!-- 10 aug 2014 -->
   <wpt lat="42.249014" lon="78.394812">
     <ele>2955.862793</ele>
     <time>2014-08-10T02:33:31Z</time>
     <name>10-08:33-BROD</name>
-    <sym>Flag, Blue</sym>
+
   </wpt>
   <wpt lat="42.261995" lon="78.427597">
     <ele>3792.465332</ele>
     <time>2014-08-10T07:37:59Z</time>
     <name>10-13:37-P.TELETY</name>
-    <sym>Flag, Blue</sym>
+
   </wpt>
   <wpt lat="42.263605" lon="78.434351">
     <ele>3601.129150</ele>
     <time>2014-08-10T09:59:06Z</time>
     <name>10-15:59-OBED</name>
-    <sym>Flag, Blue</sym>
+
   </wpt>
   <wpt lat="42.278124" lon="78.459632">
     <ele>3121.877686</ele>
     <time>2014-08-10T14:12:09Z</time>
     <name>10-20:12-MN</name>
-    <sym>Flag, Blue</sym>
+
   </wpt>
   <!-- 11 aug 2014 -->
   <wpt lat="42.299117" lon="78.491343">
     <ele>2622.819580</ele>
     <time>2014-08-11T04:29:44Z</time>
     <name>11-10:29-MOST</name>
-    <sym>Flag, Blue</sym>
+
   </wpt>
   <!-- 12 aug 2014 -->
   <wpt lat="42.221378" lon="78.562886">
     <ele>3544.721924</ele>
     <time>2014-08-12T10:44:12Z</time>
     <name>12-16:44-MN</name>
-    <sym>Flag, Blue</sym>
+
   </wpt>
   <!-- 13 aug 2014 -->
   <wpt lat="42.204996" lon="78.546085">
     <ele>3823.073975</ele>
     <time>2014-08-13T10:19:54Z</time>
     <name>13-16:19-MN,POSTROILIS</name>
-    <sym>Flag, Blue</sym>
+
   </wpt>
 
   <!-- 14,15,16 aug 2014 no data, A/L KARAKOL -->
@@ -188,61 +188,160 @@
     <ele>2552.451904</ele>
     <time>2014-08-17T03:46:06Z</time>
     <name>17-09:46</name>
-    <sym>Flag, Blue</sym>
+
   </wpt>
   <wpt lat="42.320551" lon="78.481518">
     <ele>2696.214355</ele>
     <time>2014-08-17T04:15:59Z</time>
     <name>17-10:15</name>
-    <sym>Flag, Blue</sym>
+
   </wpt>
   <wpt lat="42.323308" lon="78.488070">
     <ele>2871.442871</ele>
     <time>2014-08-17T04:48:54Z</time>
     <name>17-10:48</name>
-    <sym>Flag, Blue</sym>
+
   </wpt>
   <wpt lat="42.324271" lon="78.493191">
     <ele>2958.474365</ele>
     <time>2014-08-17T05:30:47Z</time>
     <name>17-11:30-ARCHA</name>
-    <sym>Flag, Blue</sym>
+
   </wpt>
   <wpt lat="42.325122" lon="78.495105">
     <ele>2951.247559</ele>
     <time>2014-08-17T05:50:05Z</time>
     <name>17-11:50-LMOT</name>
     <!-- LMOT = Любимое место отдыха туристов -->
-    <sym>Flag, Blue</sym>
+
   </wpt>
   <wpt lat="42.326177" lon="78.503175">
     <ele>3017.529053</ele>
     <time>2014-08-17T06:08:14Z</time>
     <name>17-12:08-VODA</name>
-    <sym>Flag, Blue</sym>
+
   </wpt>
   <wpt lat="42.325662" lon="78.509118">
     <ele>3092.022949</ele>
     <time>2014-08-17T06:44:25Z</time>
     <name>17-12:44</name>
-    <sym>Flag, Blue</sym>
+
   </wpt>
   <wpt lat="42.325769" lon="78.514495">
     <ele>3309.001465</ele>
     <time>2014-08-17T07:29:06Z</time>
     <name>17-13:29</name>
-    <sym>Flag, Blue</sym>
+
   </wpt>
   <wpt lat="42.324854" lon="78.519181">
     <ele>3410.898682</ele>
     <time>2014-08-17T08:15:01Z</time>
     <name>17-14:15</name>
-    <sym>Flag, Blue</sym>
+
   </wpt>
   <wpt lat="42.322647" lon="78.521441">
     <ele>3623.045654</ele>
     <time>2014-08-17T09:03:34Z</time>
     <name>17-15:03-L.ALAKEL</name>
-    <sym>Flag, Blue</sym>
+
   </wpt>
+
+<wpt lat="42.171123000000001" lon="78.198312000000001">
+  <name>N01</name>
+  <ele>2624.5</ele>
+  <cmt>04-AUG-14 4:29:32</cmt>
+  <desc>04-AUG-14 4:29:32</desc>
+</wpt>
+<wpt lat="42.149915" lon="78.170715000000001">
+  <name>N02</name>
+  <ele>3441.1399999999999</ele>
+  <cmt>05-AUG-14 5:29:21</cmt>
+  <desc>05-AUG-14 5:29:21</desc>
+</wpt>
+<wpt lat="42.193655999999997" lon="78.201035000000005">
+  <name>N03</name>
+  <ele>2596.1500000000001</ele>
+  <cmt>06-AUG-14 6:35:52</cmt>
+  <desc>06-AUG-14 6:35:52</desc>
+</wpt>
+<wpt lat="42.217359000000002" lon="78.239677999999998">
+  <name>N04</name>
+  <ele>3544.96</ele>
+  <cmt>07-AUG-14 6:44:39</cmt>
+  <desc>07-AUG-14 6:44:39</desc>
+</wpt>
+<wpt lat="42.219368000000003" lon="78.260703000000007">
+  <name>001</name>
+  <ele>3873.9699999999998</ele>
+  <cmt>07-AUG-14 11:30:44</cmt>
+  <desc>07-AUG-14 11:30:44</desc>
+</wpt>
+<wpt lat="42.229362000000002" lon="78.296948">
+  <name>N05</name>
+  <ele>3310.1599999999999</ele>
+  <cmt>09-AUG-14 5:46:26</cmt>
+  <desc>09-AUG-14 5:46:26</desc>
+</wpt>
+<wpt lat="42.265799000000001" lon="78.370642000000004">
+  <name>N06</name>
+  <ele>2857.6199999999999</ele>
+  <cmt>10-AUG-14 5:13:29</cmt>
+  <desc>10-AUG-14 5:13:29</desc>
+</wpt>
+<wpt lat="42.278049000000003" lon="78.459461000000005">
+  <name>N07</name>
+  <ele>3153.23</ele>
+  <cmt>11-AUG-14 5:27:58</cmt>
+  <desc>11-AUG-14 5:27:58</desc>
+</wpt>
+<wpt lat="42.239708999999998" lon="78.544528">
+  <name>N08+1</name>
+  <ele>3145.54</ele>
+  <cmt>12-AUG-14 6:23:10</cmt>
+  <desc>12-AUG-14 6:23:10</desc>
+</wpt>
+<wpt lat="42.221378999999999" lon="78.562923999999995">
+  <name>N09</name>
+  <ele>3526.21</ele>
+  <cmt>12-AUG-14 14:38:08</cmt>
+  <desc>12-AUG-14 14:38:08</desc>
+</wpt>
+<wpt lat="42.205105000000003" lon="78.546026999999995">
+  <name>N10</name>
+  <ele>3820.8600000000001</ele>
+  <cmt>14-AUG-14 4:02:53</cmt>
+  <desc>14-AUG-14 4:02:53</desc>
+</wpt>
+<wpt lat="42.196916999999999" lon="78.525555999999995">
+  <name>002</name>
+  <ele>3979.4699999999998</ele>
+  <cmt>14-AUG-14 6:35:46</cmt>
+  <desc>14-AUG-14 6:35:46</desc>
+</wpt>
+<wpt lat="42.219133999999997" lon="78.482551000000001">
+  <name>N11</name>
+  <ele>3135.1999999999998</ele>
+  <cmt>15-AUG-14 6:49:03</cmt>
+  <desc>15-AUG-14 6:49:03</desc>
+</wpt>
+<wpt lat="42.219572999999997" lon="78.274118000000001">
+  <name>Ob2</name>
+  <ele>3640.1300000000001</ele>
+  <cmt>08-AUG-14 12:40:48</cmt>
+  <desc>08-AUG-14 12:40:48</desc>
+</wpt>
+<wpt lat="42.275210000000001" lon="78.528238000000002">
+  <name>Obed7</name>
+  <ele>2934.29</ele>
+  <cmt>11-AUG-14 12:12:15</cmt>
+  <desc>11-AUG-14 12:12:15</desc>
+</wpt>
+<wpt lat="42.214736000000002" lon="78.199792000000002">
+  <name>br</name>
+  <ele>2945.8200000000002</ele>
+  <cmt>06-AUG-14 11:15:30</cmt>
+  <desc>06-AUG-14 11:15:30</desc>
+</wpt>
+
+
 </gpx>

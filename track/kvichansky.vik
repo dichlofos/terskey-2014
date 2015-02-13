@@ -1,10 +1,10 @@
 #VIKING GPS Data file http://viking.sf.net/
 FILE_VERSION=1
 
-xmpp=4.000000
-ympp=4.000000
-lat=42.271099
-lon=78.317889
+xmpp=2.000000
+ympp=2.000000
+lat=42.151222
+lon=78.161890
 mode=mercator
 color=#cccccc
 highlightcolor=#eea500
@@ -76,7 +76,7 @@ image_cache_size=300
 ~LayerData
 type="waypointlist"
 type="waypointlistend"
-type="track" name="Kvichansky.Terskey.2014" color=#ed110c number_dist_labels="8"
+type="track" name="Kvichansky.Terskey.2014" color=#ed110c number_dist_labels="100"
 type="trackpoint" latitude="42.192859724199998" longitude="78.200657190800001" altitude="2591.3699999999999" unixtime="1407048492" newsegment="yes"
 type="trackpoint" latitude="42.192850923199998" longitude="78.200618969299995" altitude="2594.7399999999998" unixtime="1407048511"
 type="trackpoint" latitude="42.1928455587" longitude="78.200492905499999" altitude="2587.5300000000002" unixtime="1407048530"
@@ -3100,6 +3100,88 @@ type="trackpoint" latitude="42.375867348200003" longitude="78.608665522199999" a
 type="trackpoint" latitude="42.375868689299999" longitude="78.608662001799999" altitude="2520.71" unixtime="1408434150"
 type="trackpoint" latitude="42.375874221300002" longitude="78.608667282400006" altitude="2520.23" unixtime="1408434182"
 type="trackend"
+~EndLayerData
+~EndLayer
+
+
+~Layer TrackWaypoint
+name=Waypoints-composite.gpx
+tracks_visible=t
+waypoints_visible=t
+routes_visible=t
+trackdrawlabels=t
+trackfontsize=3
+drawmode=0
+trackcolor=#000000
+drawlines=t
+line_thickness=1
+drawdirections=f
+trkdirectionsize=5
+drawpoints=t
+trkpointsize=2
+drawelevation=f
+elevation_factor=30
+drawstops=f
+stop_length=60
+bg_line_thickness=0
+trackbgcolor=#ffffff
+speed_factor=30.000000
+tracksortorder=0
+drawlabels=t
+wpfontsize=3
+wpcolor=#000000
+wptextcolor=#ffffff
+wpbgcolor=#8383c4
+wpbgand=f
+wpsymbol=0
+wpsize=4
+wpsyms=t
+wpsortorder=0
+drawimages=t
+image_size=64
+image_alpha=255
+image_cache_size=300
+
+
+~LayerData
+type="waypointlist"
+type="waypoint" latitude="42.192976999999999" longitude="78.199986999999993" name="03-14:35-OBED" altitude="2607.4448240000002" unixtime="1407054908" symbol="flag, blue"
+type="waypoint" latitude="42.171022000000001" longitude="78.198503000000002" name="03-19:45-MN" altitude="2607.8701169999999" unixtime="1407073515" symbol="flag, blue"
+type="waypoint" latitude="42.149994" longitude="78.170788000000002" name="04-19:02-MN" altitude="3445.3276369999999" unixtime="1407157331" symbol="flag, blue"
+type="waypoint" latitude="42.148308999999998" longitude="78.151208999999994" name="05-11:17-P.SAVATOR" altitude="3799.07251" unixtime="1407215852" symbol="flag, blue"
+type="waypoint" latitude="42.193722999999999" longitude="78.200732000000002" name="05-20:58-MN" altitude="2716.8452149999998" unixtime="1407250705" symbol="flag, blue"
+type="waypoint" latitude="42.218597000000003" longitude="78.206485000000001" name="06-14:17-VODA" altitude="3077.2995609999998" unixtime="1407313051" symbol="flag, blue"
+type="waypoint" latitude="42.220101" longitude="78.257928000000007" name="08-07:56" altitude="3805.9582519999999" unixtime="1407463016" symbol="flag, blue"
+type="waypoint" latitude="42.216901" longitude="78.200511000000006" name="06-13:16-BROD" altitude="2962.1994629999999" unixtime="1407309387" symbol="flag, blue"
+type="waypoint" latitude="42.217283000000002" longitude="78.262410000000003" name="08-09:43-P.EHO" altitude="3923.2966310000002" unixtime="1407469394" symbol="flag, blue"
+type="waypoint" latitude="42.216915" longitude="78.263636000000005" name="08-11:29-SPUSK" altitude="3861.8696289999998" unixtime="1407475788" symbol="flag, blue"
+type="waypoint" latitude="42.223475000000001" longitude="78.279471000000001" name="08-16:32-OBED" altitude="3629.921143" unixtime="1407486734" symbol="flag, blue"
+type="waypoint" latitude="42.224462000000003" longitude="78.283140000000003" name="08-14:49-LBY" altitude="3602.3420409999999" unixtime="1407487790" symbol="flag, blue"
+type="waypoint" latitude="42.224074999999999" longitude="78.284808999999996" name="08-14:58-SKALY" altitude="3506.1108399999998" unixtime="1407488333" symbol="flag, blue"
+type="waypoint" latitude="42.229343" longitude="78.297083999999998" name="08-16:26-MN" altitude="3305.955078" unixtime="1407493575" symbol="flag, blue"
+type="waypoint" latitude="42.242336999999999" longitude="78.328455000000005" name="09-09:33-BROD,BURELOM" altitude="2813.304443" unixtime="1407555194" symbol="flag, blue"
+type="waypoint" latitude="42.241433999999998" longitude="78.329909999999998" name="09-09:56-NA.TROPE" altitude="2875.1735840000001" unixtime="1407556585" symbol="flag, blue"
+type="waypoint" latitude="42.244270999999998" longitude="78.336856999999995" name="09-10:28-NACHALO TROPY" altitude="2634.8508299999999" unixtime="1407558539" symbol="flag, blue"
+type="waypoint" latitude="42.281736000000002" longitude="78.307670000000002" name="09-12:38:MOST,OBED" altitude="2392.6284179999998" unixtime="1407566307" symbol="flag, blue"
+type="waypoint" latitude="42.265976999999999" longitude="78.370537999999996" name="09-MN,START.10-07:15" altitude="2830.921143" unixtime="1407633310" symbol="flag, blue"
+type="waypoint" latitude="42.249014000000003" longitude="78.394812000000002" name="10-08:33-BROD" altitude="2955.8627929999998" unixtime="1407638011" symbol="flag, blue"
+type="waypoint" latitude="42.261994999999999" longitude="78.427597000000006" name="10-13:37-P.TELETY" altitude="3792.4653320000002" unixtime="1407656279" symbol="flag, blue"
+type="waypoint" latitude="42.263604999999998" longitude="78.434351000000007" name="10-15:59-OBED" altitude="3601.1291500000002" unixtime="1407664746" symbol="flag, blue"
+type="waypoint" latitude="42.278123999999998" longitude="78.459631999999999" name="10-20:12-MN" altitude="3121.8776859999998" unixtime="1407679929" symbol="flag, blue"
+type="waypoint" latitude="42.299117000000003" longitude="78.491343000000001" name="11-10:29-MOST" altitude="2622.8195799999999" unixtime="1407731384" symbol="flag, blue"
+type="waypoint" latitude="42.221378000000001" longitude="78.562886000000006" name="12-16:44-MN" altitude="3544.7219239999999" unixtime="1407840252" symbol="flag, blue"
+type="waypoint" latitude="42.204996000000001" longitude="78.546085000000005" name="13-16:19-MN,POSTROILIS" altitude="3823.0739749999998" unixtime="1407925194" symbol="flag, blue"
+type="waypoint" latitude="42.317400999999997" longitude="78.473848000000004" name="17-09:46" altitude="2552.451904" unixtime="1408247166" symbol="flag, blue"
+type="waypoint" latitude="42.320551000000002" longitude="78.481517999999994" name="17-10:15" altitude="2696.2143550000001" unixtime="1408248959" symbol="flag, blue"
+type="waypoint" latitude="42.323307999999997" longitude="78.488069999999993" name="17-10:48" altitude="2871.4428710000002" unixtime="1408250934" symbol="flag, blue"
+type="waypoint" latitude="42.325122" longitude="78.495104999999995" name="17-11:50-LMOT" altitude="2951.2475589999999" unixtime="1408254605" symbol="flag, blue"
+type="waypoint" latitude="42.326177000000001" longitude="78.503174999999999" name="17-12:08-VODA" altitude="3017.5290530000002" unixtime="1408255694" symbol="flag, blue"
+type="waypoint" latitude="42.324271000000003" longitude="78.493190999999996" name="17-11:30-ARCHA" altitude="2958.474365" unixtime="1408253447" symbol="flag, blue"
+type="waypoint" latitude="42.325662000000001" longitude="78.509118000000001" name="17-12:44" altitude="3092.0229490000002" unixtime="1408257865" symbol="flag, blue"
+type="waypoint" latitude="42.325769000000001" longitude="78.514494999999997" name="17-13:29" altitude="3309.0014649999998" unixtime="1408260546" symbol="flag, blue"
+type="waypoint" latitude="42.324854000000002" longitude="78.519181000000003" name="17-14:15" altitude="3410.898682" unixtime="1408263301" symbol="flag, blue"
+type="waypoint" latitude="42.322647000000003" longitude="78.521440999999996" name="17-15:03-L.ALAKEL" altitude="3623.045654" unixtime="1408266214" symbol="flag, blue"
+type="waypointlistend"
 ~EndLayerData
 ~EndLayer
 

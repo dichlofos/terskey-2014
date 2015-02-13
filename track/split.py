@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
-
 """
-    Track splitter
-    Written by Mikhail Veltishchev <dichlofos-mv@yandex.ru>
+Track splitter.
+
+Written by Mikhail Veltishchev <dichlofos-mv@yandex.ru>
 """
 
 import os

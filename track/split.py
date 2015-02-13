@@ -5,8 +5,7 @@
     Track splitter
 """
 
-#import os
-#import sys
+import os
 
 
 def read_lines(file_name):
@@ -22,6 +21,7 @@ def filter_by_day(lines, day, output_file_name):
     """Filter track items by day and fix dates."""
     started = False
     cur_point = None
+    some_points = False
     mask = '2014-08-{}'.format(day)
     print "Using mask", mask
 
@@ -47,10 +47,16 @@ def filter_by_day(lines, day, output_file_name):
 
         if started:
             cur_point.append(line)
+            some_points = True
             continue
 
         # else just output line
         output_file.write(line)
+
+    output_file.close()
+
+    if not some_points:
+        os.unlink(output_file_name)
 
 
 def main():

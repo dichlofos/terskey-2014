@@ -92,6 +92,7 @@ def main():
     parser.add_argument(
         "-i", "--track",
         type=str,
+        required=True,
         help="Input track name"
     )
 
@@ -129,15 +130,19 @@ def main():
             time_offset=time_offset,
         )
 
-    output_wpt_file = open('Waypoints-composite-local.gpx', 'w')
+    if args.waypoints:
+        output_wpt_file_name = args.waypoints.replace('.gpx', '-fixed-local-time.gpx')
+        output_wpt_file = open(output_wpt_file_name, 'w')
 
-    wpt_lines = _read_lines(args.waypoints)
-    for line in wpt_lines:
-        line = _fix_time(
-            point_line=line,
-            time_offset=time_offset,
-        )
-        output_wpt_file.write(line)
+        wpt_lines = _read_lines(args.waypoints)
+        for line in wpt_lines:
+            line = _fix_time(
+                point_line=line,
+                time_offset=time_offset,
+            )
+            output_wpt_file.write(line)
+
+        print "Waypoints with fixed time written to", output_wpt_file_name
 
 
 if __name__ == '__main__':

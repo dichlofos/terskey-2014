@@ -3622,6 +3622,10 @@ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/
     <ele>3249.8699999999999</ele>
     <time>2014-08-06T10:02:53Z</time>
   </trkpt>
+  <trkpt lat="42.217359000000002" lon="78.239677999999998">
+    <ele>3544.96</ele>
+    <time>2014-08-06T11:30:00Z</time>
+  </trkpt>
   <trkpt lat="42.220705496100003" lon="78.254479067399998">
     <ele>3754.0900000000001</ele>
     <time>2014-08-08T01:01:38Z</time>

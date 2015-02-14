@@ -40,7 +40,7 @@ def filter_by_day(lines, day, output_file_name, time_offset):
     cur_point = None
     some_points = False
     mask = '2014-08-{}'.format(day)
-    print "Using mask", mask
+    #print "Using mask", mask
 
     output_file = open(output_file_name, 'w')
 
@@ -107,7 +107,7 @@ def main():
     time_offset = 6
     if args.time_offset is not None:
         time_offset = args.time_offset
-    print("Using time offset", time_offset)
+    print "Using time offset", time_offset
 
     file_name = args.track
     if not file_name.endswith('.gpx'):

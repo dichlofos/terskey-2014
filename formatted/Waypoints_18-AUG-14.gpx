@@ -9,55 +9,46 @@
   <wpt lat="42.321837" lon="78.525193">
     <ele>3633.455566</ele>
     <time>2014-08-18T02:45:38Z</time>
-    <name>1808 1</name>
-    <sym>Flag, Blue</sym>
+    <name>18-08:45</name>
   </wpt>
   <wpt lat="42.322152" lon="78.534478">
     <ele>3659.057861</ele>
     <time>2014-08-18T03:29:45Z</time>
-    <name>1808 2</name>
-    <sym>Flag, Blue</sym>
+    <name>18-09:29</name>
   </wpt>
   <wpt lat="42.324773" lon="78.540718">
     <ele>3774.061523</ele>
     <time>2014-08-18T04:06:32Z</time>
-    <name>1808 3</name>
-    <sym>Flag, Blue</sym>
+    <name>18-10:06</name>
   </wpt>
   <wpt lat="42.327680" lon="78.547632">
     <ele>3764.984375</ele>
     <time>2014-08-18T05:19:53Z</time>
-    <name>064</name>
-    <sym>Flag, Blue</sym>
+    <name>18-11:19</name>
   </wpt>
   <wpt lat="42.330679" lon="78.554248">
     <ele>3623.382324</ele>
     <time>2014-08-18T05:38:00Z</time>
-    <name>1808 4</name>
-    <sym>Flag, Blue</sym>
+    <name>18-11:38</name>
   </wpt>
   <wpt lat="42.335525" lon="78.575387">
     <ele>3376.427002</ele>
     <time>2014-08-18T06:22:58Z</time>
-    <name>1808 5</name>
-    <sym>Flag, Blue</sym>
+    <name>18-12:22</name>
   </wpt>
   <wpt lat="42.341629" lon="78.597083">
     <ele>3063.906982</ele>
     <time>2014-08-18T07:11:12Z</time>
-    <name>1808 6</name>
-    <sym>Flag, Blue</sym>
+    <name>18-13:11</name>
   </wpt>
   <wpt lat="42.350227" lon="78.614548">
     <ele>2763.499268</ele>
     <time>2014-08-18T08:19:04Z</time>
-    <name>1808 7</name>
-    <sym>Flag, Blue</sym>
+    <name>18-14:19</name>
   </wpt>
   <wpt lat="42.356145" lon="78.621751">
     <ele>2590.175537</ele>
     <time>2014-08-18T11:37:50Z</time>
-    <name>1808 8MOST U AA</name>
-    <sym>Flag, Blue</sym>
+    <name>18-17:37-Most, Altyn-Arashan</name>
   </wpt>
 </gpx>

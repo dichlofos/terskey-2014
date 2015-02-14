@@ -245,6 +245,66 @@
     <name>17-15:03-L.ALAKEL</name>
 
   </wpt>
+
+  <!-- 18 aug -->
+  <wpt lat="42.321837" lon="78.525193">
+    <ele>3633.455566</ele>
+    <time>2014-08-18T02:45:38Z</time>
+    <name>18-08:45</name>
+  </wpt>
+  <wpt lat="42.322152" lon="78.534478">
+    <ele>3659.057861</ele>
+    <time>2014-08-18T03:29:45Z</time>
+    <name>18-09:29</name>
+  </wpt>
+  <wpt lat="42.324773" lon="78.540718">
+    <ele>3774.061523</ele>
+    <time>2014-08-18T04:06:32Z</time>
+    <name>18-10:06</name>
+  </wpt>
+  <wpt lat="42.327680" lon="78.547632">
+    <ele>3764.984375</ele>
+    <time>2014-08-18T05:19:53Z</time>
+    <name>18-11:19</name>
+  </wpt>
+  <wpt lat="42.330679" lon="78.554248">
+    <ele>3623.382324</ele>
+    <time>2014-08-18T05:38:00Z</time>
+    <name>18-11:38</name>
+  </wpt>
+  <wpt lat="42.335525" lon="78.575387">
+    <ele>3376.427002</ele>
+    <time>2014-08-18T06:22:58Z</time>
+    <name>18-12:22</name>
+  </wpt>
+  <wpt lat="42.341629" lon="78.597083">
+    <ele>3063.906982</ele>
+    <time>2014-08-18T07:11:12Z</time>
+    <name>18-13:11</name>
+  </wpt>
+  <wpt lat="42.350227" lon="78.614548">
+    <ele>2763.499268</ele>
+    <time>2014-08-18T08:19:04Z</time>
+    <name>18-14:19</name>
+  </wpt>
+  <wpt lat="42.356145" lon="78.621751">
+    <ele>2590.175537</ele>
+    <time>2014-08-18T11:37:50Z</time>
+    <name>18-17:37-Most, Altyn-Arashan</name>
+  </wpt>
+
+  <!-- 19 aug -->
+  <wpt lat="42.375879" lon="78.608650">
+    <ele>2521.195068</ele>
+    <time>2014-08-19T07:34:51Z</time>
+    <name>19-13:34-The End</name>
+  </wpt>
+  <wpt lat="42.371907" lon="78.611577">
+    <time>2014-08-19T07:40:27Z</time>
+    <name>19-13:40-MOST</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+
 <!--
 <wpt lat="42.171123000000001" lon="78.198312000000001">
   <name>N01</name>
@@ -266,7 +326,7 @@
 </wpt>
 -->
 <wpt lat="42.214736000000002" lon="78.199792000000002">
-  <name>BR</name>
+  <name>06-11:15</name>
   <ele>2945.8200000000002</ele>
   <cmt>06-AUG-14 11:15:30</cmt>
   <desc>06-AUG-14 11:15:30</desc>
@@ -310,7 +370,7 @@
 </wpt>
 -->
 <wpt lat="42.275210000000001" lon="78.528238000000002">
-  <name>Obed7</name>
+  <name>11-12:12-OBED</name>
   <ele>2934.29</ele>
   <cmt>11-AUG-14 12:12:15</cmt>
   <desc>11-AUG-14 12:12:15</desc>
@@ -322,25 +382,27 @@
   <desc>12-AUG-14 6:23:10</desc>
 </wpt>
 <wpt lat="42.221378999999999" lon="78.562923999999995">
-  <name>N09</name>
+  <name>12..13-14:38-MN</name>
   <ele>3526.21</ele>
   <cmt>12-AUG-14 14:38:08</cmt>
   <desc>12-AUG-14 14:38:08</desc>
 </wpt>
+<!--
 <wpt lat="42.205105000000003" lon="78.546026999999995">
   <name>N10</name>
   <ele>3820.8600000000001</ele>
   <cmt>14-AUG-14 4:02:53</cmt>
   <desc>14-AUG-14 4:02:53</desc>
 </wpt>
+-->
 <wpt lat="42.196916999999999" lon="78.525555999999995">
-  <name>002</name>
+  <name>Perev. vzlet</name>
   <ele>3979.4699999999998</ele>
   <cmt>14-AUG-14 6:35:46</cmt>
   <desc>14-AUG-14 6:35:46</desc>
 </wpt>
 <wpt lat="42.219133999999997" lon="78.482551000000001">
-  <name>N11</name>
+  <name>14..15-MN</name>
   <ele>3135.1999999999998</ele>
   <cmt>15-AUG-14 6:49:03</cmt>
   <desc>15-AUG-14 6:49:03</desc>

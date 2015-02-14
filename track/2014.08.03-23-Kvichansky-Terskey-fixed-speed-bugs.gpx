@@ -10309,6 +10309,13 @@ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/
     <ele>3819.46</ele>
     <time>2014-08-13T10:23:19Z</time>
   </trkpt>
+
+  <!-- 14 aug (man) 06:55 start -->
+  <trkpt lat="42.205022955300002" lon="78.546093357700002">
+    <ele>3819.46</ele>
+    <time>2014-08-13T00:55:00Z</time>
+  </trkpt>
+
   <trkpt lat="42.196134617600002" lon="78.522237287799996">
     <ele>4037.1900000000001</ele>
     <time>2014-08-14T03:55:18Z</time>
@@ -10461,6 +10468,18 @@ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/
     <ele>3421.4699999999998</ele>
     <time>2014-08-14T09:37:54Z</time>
   </trkpt>
+  <!-- mn 14..15 -->
+  <trkpt lat="42.219133999999997" lon="78.482551000000001">
+    <ele>3135.2</ele>
+    <time>2014-08-14T10:46:00Z</time>
+  </trkpt>
+
+  <!-- 15 aug (man) from 14..15 mn -->
+  <trkpt lat="42.219133999999997" lon="78.482551000000001">
+    <ele>3135.2</ele>
+    <time>2014-08-15T02:50:00Z</time>
+  </trkpt>
+
   <trkpt lat="42.233180785599998" lon="78.483482301199999">
     <ele>3086.9299999999998</ele>
     <time>2014-08-15T03:28:41Z</time>
@@ -10705,6 +10724,8 @@ xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/
     <ele>2539.9400000000001</ele>
     <time>2014-08-15T17:06:09Z</time>
   </trkpt>
+
+  <!-- 17 aug -->
   <trkpt lat="42.317335260999997" lon="78.473748480899999">
     <ele>2562.0500000000002</ele>
     <time>2014-08-17T03:44:38Z</time>

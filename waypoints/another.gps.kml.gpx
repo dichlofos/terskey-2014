@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<gpx version="1.0" creator="Viking -- http://viking.sf.net/"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns="http://www.topografix.com/GPX/1/0"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<wpt lat="42.171123000000001" lon="78.198312000000001">
+  <name>N01</name>
+  <ele>2624.5</ele>
+  <cmt>04-AUG-14 4:29:32</cmt>
+  <desc>04-AUG-14 4:29:32</desc>
+</wpt>
+<wpt lat="42.149915" lon="78.170715000000001">
+  <name>N02</name>
+  <ele>3441.1399999999999</ele>
+  <cmt>05-AUG-14 5:29:21</cmt>
+  <desc>05-AUG-14 5:29:21</desc>
+</wpt>
+<wpt lat="42.193655999999997" lon="78.201035000000005">
+  <name>N03</name>
+  <ele>2596.1500000000001</ele>
+  <cmt>06-AUG-14 6:35:52</cmt>
+  <desc>06-AUG-14 6:35:52</desc>
+</wpt>
+<wpt lat="42.217359000000002" lon="78.239677999999998">
+  <name>N04</name>
+  <ele>3544.96</ele>
+  <cmt>07-AUG-14 6:44:39</cmt>
+  <desc>07-AUG-14 6:44:39</desc>
+</wpt>
+<wpt lat="42.219368000000003" lon="78.260703000000007">
+  <name>001</name>
+  <ele>3873.9699999999998</ele>
+  <cmt>07-AUG-14 11:30:44</cmt>
+  <desc>07-AUG-14 11:30:44</desc>
+</wpt>
+<wpt lat="42.229362000000002" lon="78.296948">
+  <name>N05</name>
+  <ele>3310.1599999999999</ele>
+  <cmt>09-AUG-14 5:46:26</cmt>
+  <desc>09-AUG-14 5:46:26</desc>
+</wpt>
+<wpt lat="42.265799000000001" lon="78.370642000000004">
+  <name>N06</name>
+  <ele>2857.6199999999999</ele>
+  <cmt>10-AUG-14 5:13:29</cmt>
+  <desc>10-AUG-14 5:13:29</desc>
+</wpt>
+<wpt lat="42.278049000000003" lon="78.459461000000005">
+  <name>N07</name>
+  <ele>3153.23</ele>
+  <cmt>11-AUG-14 5:27:58</cmt>
+  <desc>11-AUG-14 5:27:58</desc>
+</wpt>
+<wpt lat="42.239708999999998" lon="78.544528">
+  <name>N08+1</name>
+  <ele>3145.54</ele>
+  <cmt>12-AUG-14 6:23:10</cmt>
+  <desc>12-AUG-14 6:23:10</desc>
+</wpt>
+<wpt lat="42.221378999999999" lon="78.562923999999995">
+  <name>N09</name>
+  <ele>3526.21</ele>
+  <cmt>12-AUG-14 14:38:08</cmt>
+  <desc>12-AUG-14 14:38:08</desc>
+</wpt>
+<wpt lat="42.205105000000003" lon="78.546026999999995">
+  <name>N10</name>
+  <ele>3820.8600000000001</ele>
+  <cmt>14-AUG-14 4:02:53</cmt>
+  <desc>14-AUG-14 4:02:53</desc>
+</wpt>
+<wpt lat="42.196916999999999" lon="78.525555999999995">
+  <name>002</name>
+  <ele>3979.4699999999998</ele>
+  <cmt>14-AUG-14 6:35:46</cmt>
+  <desc>14-AUG-14 6:35:46</desc>
+</wpt>
+<wpt lat="42.219133999999997" lon="78.482551000000001">
+  <name>N11</name>
+  <ele>3135.1999999999998</ele>
+  <cmt>15-AUG-14 6:49:03</cmt>
+  <desc>15-AUG-14 6:49:03</desc>
+</wpt>
+<wpt lat="42.219572999999997" lon="78.274118000000001">
+  <name>Ob2</name>
+  <ele>3640.1300000000001</ele>
+  <cmt>08-AUG-14 12:40:48</cmt>
+  <desc>08-AUG-14 12:40:48</desc>
+</wpt>
+<wpt lat="42.275210000000001" lon="78.528238000000002">
+  <name>Obed7</name>
+  <ele>2934.29</ele>
+  <cmt>11-AUG-14 12:12:15</cmt>
+  <desc>11-AUG-14 12:12:15</desc>
+</wpt>
+<wpt lat="42.214736000000002" lon="78.199792000000002">
+  <name>br</name>
+  <ele>2945.8200000000002</ele>
+  <cmt>06-AUG-14 11:15:30</cmt>
+  <desc>06-AUG-14 11:15:30</desc>
+</wpt>
+</gpx>
